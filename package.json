@@ -16,7 +16,8 @@
     "tracking",
     "analytics",
     "conversion",
-    "attribution"
+    "attribution",
+    "adtrace"
   ],
   "author": "AdTrace AI",
   "license": "MIT",
