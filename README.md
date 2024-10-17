@@ -2,8 +2,8 @@
 
 UTMInsight is a powerful, open-source JavaScript library for tracking UTM parameters and attributing conversions. Designed for seamless integration into websites, UTMInsight provides valuable insights into marketing campaign effectiveness, helping you optimize your ad spend and improve ROI. Brought to you by AdTrace.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/adtrace.svg)](https://github.com/yourusername/adtrace/stargazers)
-[![GitHub license](https://img.shields.io/github/license/yourusername/adtrace.svg)](https://github.com/yourusername/adtrace/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/adtrace.svg)](https://github.com/AdTraceAI/UTMInsight)
+[![GitHub license](https://img.shields.io/github/license/yourusername/adtrace.svg)](https://github.com/AdTraceAI/UTMInsight/blob/main/LICENSE)
 [![npm version](https://badge.fury.io/js/adtrace.svg)](https://badge.fury.io/js/adtrace)
 
 ## 🚀 Key Features
